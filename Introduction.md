@@ -13,7 +13,7 @@
 - conda activate venv/
 
 ### There are two type of files use 
-- 1. .ipynb jupiter Notebook  file
+- 1. .ipynb jupiter Notebook  fil
 - 2. .py file
 
 ## To run the file of .py filse 
